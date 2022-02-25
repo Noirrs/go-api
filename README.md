@@ -1,6 +1,6 @@
-<h1> 📦  A Simple Go API Example
+<h1> 📦  A Simple Go API Example </h2>
 
-<h2>👟 Running
+  <h2>👟 Running </h2>
 
 Clone the repository and open it on a text editor. Then open the terminal and run this command block
 
